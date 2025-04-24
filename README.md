@@ -13,6 +13,4 @@ Frontend: HTML, CSS, JavaScript, React, React Native
 
 📫 How to reach me: Feel free to connect via GitHub or email me at "3alaayahya@gmail.com".
 
-😄 Pronouns: He/Him
-
 ⚡ Fun fact: I love debugging—it’s like solving a puzzle, but with code!
